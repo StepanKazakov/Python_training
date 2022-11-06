@@ -1,1 +1,1 @@
-# Python_training
+# Training automatization on Python
